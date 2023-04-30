@@ -1,3 +1,1 @@
-server_connectivity_feature
-receive_data_for_training_feature
-preprocess_data_feature
+import feature
